@@ -1,6 +1,5 @@
 Hello there, I am Tiago de Santana Batista (Dudsdudy), a software developer from Brazil! 👋
 
-<div align="center">
   <a href="https://github.com/dudsdudy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudsdudy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsdudy&layout=compact&langs_count=7&theme=dracula"/>
